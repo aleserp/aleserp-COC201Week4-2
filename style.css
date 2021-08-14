@@ -1,0 +1,20 @@
+/* determines how the body class will look */
+body {
+    background-color:  lightcyan;
+    background-image: radial-gradient(center,lightcyan,cyan,blue);
+}
+
+
+
+/* determines how the button class will look */
+.button{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+    border-color:slategray;
+}
+
+#sandBoxArea{
+    color: red;
+}
